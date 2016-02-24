@@ -1,0 +1,4 @@
+<project name="global">
+<echo message="running global application"/>
+</project>
+
